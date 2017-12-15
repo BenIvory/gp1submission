@@ -1,0 +1,82 @@
+﻿  AsteroidsSDL.cpp
+  Bullet.cpp
+  cAsteroid.cpp
+cAsteroid.cpp(53): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+cAsteroid.cpp(58): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+cAsteroid.cpp(68): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+cAsteroid.cpp(69): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+  cBkGround.cpp
+  cButton.cpp
+  cButtonMgr.cpp
+  cFont.cpp
+cFont.cpp(26): warning C4150: deletion of pointer to incomplete type '_TTF_Font'; no destructor called
+  C:\Users\beniv\Desktop\Uni Work\Labs\SDL2\SDL2_ttf-2.0.14\include\SDL_ttf.h(86): note: see declaration of '_TTF_Font'
+cFont.cpp(40): warning C4150: deletion of pointer to incomplete type '_TTF_Font'; no destructor called
+  C:\Users\beniv\Desktop\Uni Work\Labs\SDL2\SDL2_ttf-2.0.14\include\SDL_ttf.h(86): note: see declaration of '_TTF_Font'
+  cFontMgr.cpp
+  cGame.cpp
+cGame.cpp(58): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+cGame.cpp(74): warning C4018: '<': signed/unsigned mismatch
+cGame.cpp(87): warning C4018: '<': signed/unsigned mismatch
+cGame.cpp(91): warning C4018: '<': signed/unsigned mismatch
+cGame.cpp(108): warning C4018: '<': signed/unsigned mismatch
+cGame.cpp(121): warning C4018: '<': signed/unsigned mismatch
+cGame.cpp(133): warning C4018: '<': signed/unsigned mismatch
+cGame.cpp(258): warning C4018: '<': signed/unsigned mismatch
+cGame.cpp(281): warning C4018: '<': signed/unsigned mismatch
+cGame.cpp(287): warning C4018: '<': signed/unsigned mismatch
+cGame.cpp(504): warning C4018: '<': signed/unsigned mismatch
+cGame.cpp(508): warning C4018: '<': signed/unsigned mismatch
+cGame.cpp(517): warning C4018: '<': signed/unsigned mismatch
+cGame.cpp(569): warning C4018: '<': signed/unsigned mismatch
+cGame.cpp(575): warning C4018: '<': signed/unsigned mismatch
+cGame.cpp(578): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+cGame.cpp(579): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+cGame.cpp(580): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+cGame.cpp(581): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+cGame.cpp(606): warning C4018: '<': signed/unsigned mismatch
+cGame.cpp(641): warning C4018: '<': signed/unsigned mismatch
+cGame.cpp(648): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+cGame.cpp(649): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+cGame.cpp(650): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+cGame.cpp(651): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+cGame.cpp(673): warning C4018: '<': signed/unsigned mismatch
+cGame.cpp(679): warning C4018: '<': signed/unsigned mismatch
+cGame.cpp(686): warning C4018: '<': signed/unsigned mismatch
+  cRocket.cpp
+  cSDL2WNDManager.cpp
+  cSound.cpp
+  cSoundMgr.cpp
+  cSprite.cpp
+cSprite.cpp(180): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+cSprite.cpp(181): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+cSprite.cpp(297): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+  cTexture.cpp
+  cTextureMgr.cpp
+  e_Bullet.cpp
+  Generating code
+  All 1135 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Lab8.vcxproj -> C:\Users\beniv\Desktop\Uni Work\Labs\Lab8\Release\Lab8.exe
+  copying SDL2.dll to debug directory
+  C:\Users\beniv\Desktop\Uni Work\Labs\Lab8\..\SDL2\SDL2-2.0.4\lib\x86\SDL2.dll
+  1 File(s) copied
+  C:\Users\beniv\Desktop\Uni Work\Labs\Lab8\..\SDL2\SDL2_image-2.0.1\lib\x86\libjpeg-9.dll
+  C:\Users\beniv\Desktop\Uni Work\Labs\Lab8\..\SDL2\SDL2_image-2.0.1\lib\x86\libpng16-16.dll
+  C:\Users\beniv\Desktop\Uni Work\Labs\Lab8\..\SDL2\SDL2_image-2.0.1\lib\x86\libtiff-5.dll
+  C:\Users\beniv\Desktop\Uni Work\Labs\Lab8\..\SDL2\SDL2_image-2.0.1\lib\x86\libwebp-4.dll
+  C:\Users\beniv\Desktop\Uni Work\Labs\Lab8\..\SDL2\SDL2_image-2.0.1\lib\x86\SDL2_image.dll
+  C:\Users\beniv\Desktop\Uni Work\Labs\Lab8\..\SDL2\SDL2_image-2.0.1\lib\x86\zlib1.dll
+  6 File(s) copied
+  C:\Users\beniv\Desktop\Uni Work\Labs\Lab8\..\SDL2\SDL2_ttf-2.0.14\lib\x86\libfreetype-6.dll
+  C:\Users\beniv\Desktop\Uni Work\Labs\Lab8\..\SDL2\SDL2_ttf-2.0.14\lib\x86\SDL2_ttf.dll
+  C:\Users\beniv\Desktop\Uni Work\Labs\Lab8\..\SDL2\SDL2_ttf-2.0.14\lib\x86\zlib1.dll
+  3 File(s) copied
+  C:\Users\beniv\Desktop\Uni Work\Labs\Lab8\..\SDL2\SDL2_mixer-2.0.1\lib\x86\libFLAC-8.dll
+  C:\Users\beniv\Desktop\Uni Work\Labs\Lab8\..\SDL2\SDL2_mixer-2.0.1\lib\x86\libmodplug-1.dll
+  C:\Users\beniv\Desktop\Uni Work\Labs\Lab8\..\SDL2\SDL2_mixer-2.0.1\lib\x86\libogg-0.dll
+  C:\Users\beniv\Desktop\Uni Work\Labs\Lab8\..\SDL2\SDL2_mixer-2.0.1\lib\x86\libvorbis-0.dll
+  C:\Users\beniv\Desktop\Uni Work\Labs\Lab8\..\SDL2\SDL2_mixer-2.0.1\lib\x86\libvorbisfile-3.dll
+  C:\Users\beniv\Desktop\Uni Work\Labs\Lab8\..\SDL2\SDL2_mixer-2.0.1\lib\x86\SDL2_mixer.dll
+  C:\Users\beniv\Desktop\Uni Work\Labs\Lab8\..\SDL2\SDL2_mixer-2.0.1\lib\x86\smpeg2.dll
+  7 File(s) copied

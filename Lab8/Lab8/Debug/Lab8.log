@@ -1,0 +1,52 @@
+﻿  cGame.cpp
+c:\users\beniv\desktop\uni work\labs\lab8\lab8\cgame.cpp(58): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\beniv\desktop\uni work\labs\lab8\lab8\cgame.cpp(74): warning C4018: '<': signed/unsigned mismatch
+c:\users\beniv\desktop\uni work\labs\lab8\lab8\cgame.cpp(87): warning C4018: '<': signed/unsigned mismatch
+c:\users\beniv\desktop\uni work\labs\lab8\lab8\cgame.cpp(91): warning C4018: '<': signed/unsigned mismatch
+c:\users\beniv\desktop\uni work\labs\lab8\lab8\cgame.cpp(108): warning C4018: '<': signed/unsigned mismatch
+c:\users\beniv\desktop\uni work\labs\lab8\lab8\cgame.cpp(121): warning C4018: '<': signed/unsigned mismatch
+c:\users\beniv\desktop\uni work\labs\lab8\lab8\cgame.cpp(133): warning C4018: '<': signed/unsigned mismatch
+c:\users\beniv\desktop\uni work\labs\lab8\lab8\cgame.cpp(258): warning C4018: '<': signed/unsigned mismatch
+c:\users\beniv\desktop\uni work\labs\lab8\lab8\cgame.cpp(281): warning C4018: '<': signed/unsigned mismatch
+c:\users\beniv\desktop\uni work\labs\lab8\lab8\cgame.cpp(287): warning C4018: '<': signed/unsigned mismatch
+c:\users\beniv\desktop\uni work\labs\lab8\lab8\cgame.cpp(504): warning C4018: '<': signed/unsigned mismatch
+c:\users\beniv\desktop\uni work\labs\lab8\lab8\cgame.cpp(508): warning C4018: '<': signed/unsigned mismatch
+c:\users\beniv\desktop\uni work\labs\lab8\lab8\cgame.cpp(517): warning C4018: '<': signed/unsigned mismatch
+c:\users\beniv\desktop\uni work\labs\lab8\lab8\cgame.cpp(569): warning C4018: '<': signed/unsigned mismatch
+c:\users\beniv\desktop\uni work\labs\lab8\lab8\cgame.cpp(575): warning C4018: '<': signed/unsigned mismatch
+c:\users\beniv\desktop\uni work\labs\lab8\lab8\cgame.cpp(578): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\beniv\desktop\uni work\labs\lab8\lab8\cgame.cpp(579): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\beniv\desktop\uni work\labs\lab8\lab8\cgame.cpp(580): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\beniv\desktop\uni work\labs\lab8\lab8\cgame.cpp(581): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\beniv\desktop\uni work\labs\lab8\lab8\cgame.cpp(606): warning C4018: '<': signed/unsigned mismatch
+c:\users\beniv\desktop\uni work\labs\lab8\lab8\cgame.cpp(641): warning C4018: '<': signed/unsigned mismatch
+c:\users\beniv\desktop\uni work\labs\lab8\lab8\cgame.cpp(648): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\beniv\desktop\uni work\labs\lab8\lab8\cgame.cpp(649): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\beniv\desktop\uni work\labs\lab8\lab8\cgame.cpp(650): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\beniv\desktop\uni work\labs\lab8\lab8\cgame.cpp(651): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\beniv\desktop\uni work\labs\lab8\lab8\cgame.cpp(673): warning C4018: '<': signed/unsigned mismatch
+c:\users\beniv\desktop\uni work\labs\lab8\lab8\cgame.cpp(679): warning C4018: '<': signed/unsigned mismatch
+c:\users\beniv\desktop\uni work\labs\lab8\lab8\cgame.cpp(686): warning C4018: '<': signed/unsigned mismatch
+  Lab8.vcxproj -> C:\Users\beniv\Desktop\Uni Work\Labs\Lab8\Debug\Lab8.exe
+  copying SDL2.dll to debug directory
+  C:\Users\beniv\Desktop\Uni Work\Labs\Lab8\..\SDL2\SDL2-2.0.4\lib\x86\SDL2.dll
+  1 File(s) copied
+  C:\Users\beniv\Desktop\Uni Work\Labs\Lab8\..\SDL2\SDL2_image-2.0.1\lib\x86\libjpeg-9.dll
+  C:\Users\beniv\Desktop\Uni Work\Labs\Lab8\..\SDL2\SDL2_image-2.0.1\lib\x86\libpng16-16.dll
+  C:\Users\beniv\Desktop\Uni Work\Labs\Lab8\..\SDL2\SDL2_image-2.0.1\lib\x86\libtiff-5.dll
+  C:\Users\beniv\Desktop\Uni Work\Labs\Lab8\..\SDL2\SDL2_image-2.0.1\lib\x86\libwebp-4.dll
+  C:\Users\beniv\Desktop\Uni Work\Labs\Lab8\..\SDL2\SDL2_image-2.0.1\lib\x86\SDL2_image.dll
+  C:\Users\beniv\Desktop\Uni Work\Labs\Lab8\..\SDL2\SDL2_image-2.0.1\lib\x86\zlib1.dll
+  6 File(s) copied
+  C:\Users\beniv\Desktop\Uni Work\Labs\Lab8\..\SDL2\SDL2_ttf-2.0.14\lib\x86\libfreetype-6.dll
+  C:\Users\beniv\Desktop\Uni Work\Labs\Lab8\..\SDL2\SDL2_ttf-2.0.14\lib\x86\SDL2_ttf.dll
+  C:\Users\beniv\Desktop\Uni Work\Labs\Lab8\..\SDL2\SDL2_ttf-2.0.14\lib\x86\zlib1.dll
+  3 File(s) copied
+  C:\Users\beniv\Desktop\Uni Work\Labs\Lab8\..\SDL2\SDL2_mixer-2.0.1\lib\x86\libFLAC-8.dll
+  C:\Users\beniv\Desktop\Uni Work\Labs\Lab8\..\SDL2\SDL2_mixer-2.0.1\lib\x86\libmodplug-1.dll
+  C:\Users\beniv\Desktop\Uni Work\Labs\Lab8\..\SDL2\SDL2_mixer-2.0.1\lib\x86\libogg-0.dll
+  C:\Users\beniv\Desktop\Uni Work\Labs\Lab8\..\SDL2\SDL2_mixer-2.0.1\lib\x86\libvorbis-0.dll
+  C:\Users\beniv\Desktop\Uni Work\Labs\Lab8\..\SDL2\SDL2_mixer-2.0.1\lib\x86\libvorbisfile-3.dll
+  C:\Users\beniv\Desktop\Uni Work\Labs\Lab8\..\SDL2\SDL2_mixer-2.0.1\lib\x86\SDL2_mixer.dll
+  C:\Users\beniv\Desktop\Uni Work\Labs\Lab8\..\SDL2\SDL2_mixer-2.0.1\lib\x86\smpeg2.dll
+  7 File(s) copied
